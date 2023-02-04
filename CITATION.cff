@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Tekbıyık"
+  given-names: "Kürşat"
+  orcid: "https://orcid.org/0000-0002-2548-3286"
+title: "Graph Attention Networks for Channel Estimation in RIS-assisted Satellite IoT Communications"
+version: 1.0
+date-released: 2023-02-04
+url: "https://github.com/ktekbiyik/GAT_RIS_CH_EST"
