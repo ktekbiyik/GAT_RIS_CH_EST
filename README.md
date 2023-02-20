@@ -11,8 +11,8 @@ Note that this repository includes a simple form of source codes to allow users 
 To run the code, you will need to have a folder structure given below on your Google Drive:
 ```
   .
-  ├── gcn.ipynb
-  ├── gat.ipynb
+  ├── gcn_ch_est.ipynb
+  ├── gat_ch_est.ipynb
   ├── train_data
   ├── test_data
   └── results/
